@@ -22,9 +22,9 @@ All the datasets used for this training course is available throughout the docum
 
 ### 1. Bioinformatics for Proteomics
 
-- Slides: [Bioinformatics for Proteomics](assets/martens_proteomics_bioinformatics_20180529.pdf)
+- Slides: [Bioinformatics for Proteomics](assets/martens_proteomics_bioinformatics_20190401.pdf)
 - Slides: [Quantification in MS proteomics](assets/martens_proteomics_quantification_20180530.pdf)
-- Slides: [Data Sharing](assets/DataSharingPDA18.pdf)
+- Slides: Data Sharing
 - Tutorials: [Tutorials Bioinformatics for Proteomics](https://compomics.com/bioinformatics-for-proteomics/)  
 
 <br/>
@@ -40,12 +40,12 @@ All the datasets used for this training course is available throughout the docum
 - Tutorial: [Evaluating Target Decoy Quality](pages/Identification.md)  
 
 ##### 2.2. Statistical Data Analysis of Label Free Quantitative Proteomics Experiments with Simple Designs
-- Slides: [Preprocessing](assets/2_MSqRob_data_analysisI.pdf),    [Results of Preprocessing](assets/2_MSqRob_data_analysisIb.pdf)
+- Slides: [Preprocessing](assets/2_MSqRob_data_analysisI.pdf),   <!-- + text + --> [Results of Preprocessing](assets/2_MSqRob_data_analysisIb.pdf)
 - Tutorial: [Statistical Data Analysis with MSqRob for Simple Designs](pages/sdaMsqrobSimple.md)
 - Robust Regression: [Robust Regression Explained by Example](pages/robustRegression.nb.html)  
 
 ##### 2.3. Statistical Analysis of Label Free Quantitative Proteomics Experiments with Factorial Designs
-- Slides: [Statistical Inference](assets/2_MSqRob_data_analysisII.pdf)
+- Slides: <!-- + text + --> [Statistical Inference](assets/2_MSqRob_data_analysisII.pdf)
 - Tutorial: [Statistical Data Analysis with MSqRob for Factorial Designs](pages/sdaMsqrobDesign.md)
 
 ---
